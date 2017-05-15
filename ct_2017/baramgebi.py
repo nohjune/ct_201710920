@@ -1,4 +1,11 @@
-﻿t1.home()
+import turtle
+wn=turtle.Screen()
+t1=turlte.Turtle()
+def giyuk(size):
+  t1.fd(size)
+  t1.rt(90)
+  t1.fd(size)
+t1.home()
 t1.clear()
 turnby=45
 size=100
