@@ -1,6 +1,6 @@
 import turtle
 wn=turtle.Screen()
-t1=turlte.Turtle()
+t1=turtle.Turtle()
 def giyuk(size):
   t1.fd(size)
   t1.rt(90)
